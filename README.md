@@ -10,7 +10,6 @@
 | **Wordy** | React, TypeScript, Bun, Vite | 4×4 dynamic word grid swipe game with dictionary validation and custom scoring. | [▶ Play Wordy](https://mickbrooke.github.io/wordy/) |
 | **Brookie’s Lucky 777** | JavaScript, Canvas, Vite | Authentic classic British fruit machine & arcade slot simulator with nudges, holds, and retro audio. | [▶ Play Slot](https://mickbrooke.github.io/brookies-lucky-777/) |
 | **GrooveStudio** | Web Audio API, Vanilla JS | Zero-dependency 16-step drum machine & synth engine featuring GM MIDI export, stutter FX, and synth presets. | [▶ Launch Sequencer](https://mickbrooke.github.io/grooveStudio/) |
-| **Mouse in the House** | Web Audio, Canvas | 3D audio stealth paw simulator and soundscape experiment. | [▶ Launch](https://mickbrooke.github.io/mouse-in-the-house/) |
 
 ---
 
